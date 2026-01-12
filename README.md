@@ -6,7 +6,7 @@ The goal here is simple: **reduce the default filesystem blast radius** while ke
 
 ## Commits welcome
 
-- This was backed by a non-expert since I could not find anything equivalent online. Please do contribute! :)
+- This was baked by a non-expert since I could not find anything equivalent online. Please do contribute! :)
 
 ## What’s in this repo
 
